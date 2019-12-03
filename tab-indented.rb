@@ -1,3 +1,3 @@
 def foo
-	puts "ohai"
+	puts "whoa"
 end
