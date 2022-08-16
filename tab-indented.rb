@@ -1,5 +1,5 @@
 def foo
-	puts "ohai"
+	puts "whoa"
 end
 
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quis dolor blandit, luctus est et, luctus neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce posuere convallis purus, vel dapibus massa gravida at. Aenean dapibus risus erat, elementum condimentum ligula fermentum nec. Phasellus placerat nulla sed dui mattis rutrum. Sed aliquam aliquam nulla, vel sodales felis finibus vitae. Aenean iaculis eget ipsum vel consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer vel pretium nulla. Praesent nibh erat, ullamcorper at euismod ac, viverra a justo. Vestibulum lacinia cursus ex ut tincidunt.
